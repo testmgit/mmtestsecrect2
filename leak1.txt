@@ -1,1 +1,1 @@
-AWS_SECRET_ACCESS_KEY = "AKIAIOSFODNN7EXAMPLE"
+my_token = ghp_abcdefghijklmnopqrstuvwxyz123456
