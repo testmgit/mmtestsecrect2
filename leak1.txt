@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 my_token =  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
 secret_type=‘github_personal_access_token’过滤"
+=======
+my_token =  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
+>>>>>>> 82f6d54d91a1ed74a5ac61e0dfd43d7eb5b6a674
